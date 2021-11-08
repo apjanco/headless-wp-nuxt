@@ -6,7 +6,7 @@
 
 Click the "Deploy to Netlify" button, and you can configure it to fit your needs.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-labs/headless-wp-nuxt?utm_source=github&utm_medium=headlesswp-sd&utm_campaign=devex)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/apjanco/headless-pedagogy?utm_source=github&utm_medium=headlesswp-sd&utm_campaign=devex)
 
 ![Headless WordPress Template Preview](https://i.ibb.co/4wkXsxj/fullpreview-smashing.png "Template preview")
 
